@@ -1,2 +1,2 @@
-# javaExcerciseUdemy
+# JavaExcerciseUdemy
 Coding Excersise
